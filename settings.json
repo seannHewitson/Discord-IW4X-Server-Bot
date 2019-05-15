@@ -1,0 +1,150 @@
+{
+  "map": {
+    "mp_afghan": {
+    	"name": "Afghan",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/afghan-t.jpg"
+    },
+    "mp_derail": {
+    	"name": "Derail",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/derail-t.jpg"
+    },
+    "mp_estate": {
+    	"name": "Estate",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/estate-t.jpg"
+    },
+    "mp_favela": {
+    	"name": "Favela",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/favela-t.jpg"
+    },
+    "mp_highrise": {
+    	"name": "Highrise",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/highrise-t.jpg"
+    },
+    "mp_invasion": {
+    	"name": "Invasion",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/invasion-t.jpg"
+    },
+    "mp_checkpoint": {
+    	"name": "Karachi",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/karachi-t.jpg"
+    },
+    "mp_quarry": {
+    	"name": "Quarry",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/quarry-t.jpg"
+    },
+    "mp_rundown": {
+    	"name": "Rundown",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/rundown-t.jpg"
+    },
+    "mp_rust": {
+    	"name": "Rust",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/rust-t.jpg"
+    },
+    "mp_boneyard": {
+    	"name": "Scrapyard",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/scrapyard-t.jpg"
+    },
+    "mp_nightshift": {
+    	"name": "Skidrow",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/skidrow-t.jpg"
+    },
+    "mp_subbase": {
+    	"name": "Sub Base",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/sub-base-t.jpg"
+    },
+    "mp_terminal": {
+    	"name": "Terminal",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/terminal-t.jpg"
+    },
+    "mp_underpass": {
+    	"name": "Underpass",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/underpass-t.jpg"
+    },
+    "mp_brecourt": {
+    	"name": "Wasteland",
+    	"image": "http://www.themodernwarfare2.com/images/mw2/maps/wasteland-t.jpg"
+    },
+    "mp_complex": {
+    	"name": "Bailout",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/0/0e/MW2_Bailout.jpg/revision/latest/scale-to-width-down/300?cb=20100613115812"
+    },
+    "mp_crash": {
+    	"name": "Crash",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/9/90/Bare_Load_Screen_Crash_CoD4.jpg/revision/latest/scale-to-width-down/300?cb=20110727174701"
+    },
+    "mp_overgrown": {
+    	"name": "Overgrown",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/7/7d/Bare_Load_Screen_Overgrown_CoD4.jpg/revision/latest/scale-to-width-down/300?cb=20110727174104"
+    },
+    "mp_compact": {
+    	"name": "Salvage",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/d/d7/MW2_Salvage.jpg/revision/latest/scale-to-width-down/300?cb=20100613115824"
+    },
+    "mp_storm": {
+    	"name": "Storm",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/6/60/MW2_Storm.jpg/revision/latest/scale-to-width-down/300?cb=20100613115722"
+    },
+    "mp_abandon": {
+    	"name": "Carnival",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/c/c3/Carnival_loadscreen.jpg/revision/latest/scale-to-width-down/300?cb=20100712195429"
+    },
+    "mp_fuel2": {
+    	"name": "Fuel",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/d/de/Fuel_loadscreen.jpg/revision/latest/scale-to-width-down/300?cb=20100712195521"
+    },
+    "mp_strike": {
+    	"name": "Strike",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/f/fe/Cod4_map_strike.jpg/revision/latest/scale-to-width-down/300?cb=20110727175654"
+    },
+    "mp_trailerpark": {
+    	"name": "Trailer Park",
+    	"image": "https://vignette.wikia.nocookie.net/callofduty/images/c/cf/Trailer_Park.jpg/revision/latest/scale-to-width-down/300?cb=20100712195448"
+    },
+    "mp_vacant": {
+    	"name": "Vacant",
+      "image": "https://vignette.wikia.nocookie.net/callofduty/images/f/f6/Cod4_map_vacant.jpg/revision/latest/scale-to-width-down/300?cb=20100723080839"
+    },
+    "mp_nuked": {
+      "name": "Nuketown",
+      "image": "https://vignette.wikia.nocookie.net/callofduty/images/2/2c/Bare_Load_Screen_Nuketown_BO.jpg/revision/latest/scale-to-width-down/300?cb=20110303122337"
+    },
+    "mp_killhouse": {
+      "name": "Killhouse",
+      "image": "https://vignette.wikia.nocookie.net/callofduty/images/4/48/Cod4-killhouse.jpg/revision/latest/scale-to-width-down/300?cb=20100723081127"
+    },
+    "mp_shipment": {
+      "name": "Shipment",
+      "image": "https://vignette.wikia.nocookie.net/callofduty/images/9/9b/Shipment_Load.jpg/revision/latest/scale-to-width-down/300?cb=20100723080524"
+    }
+  },
+  "gametype": {
+    "war": "Team Deathmatch",
+    "dm": "Free for all",
+    "dom": "Domination",
+    "koth": "Headquarters",
+    "sab": "Sabotage",
+    "sd": "Search and Destroy",
+    "arena": "Arena",
+    "dd": "Demolition",
+    "ctf": "Capture the Flag",
+    "oneflag": "One-Flag CTF",
+    "gtnw": "Global Thermo-Nuclear War",
+    "infected": "Infected",
+    "zombies": "Zombies",
+    "gg": "Gungame",
+    "gungame": "Gungame"
+  },
+  "color": {
+    "0": "black",
+    "1": "red",
+    "2": "green",
+    "3": "yellow",
+    "4": "blue",
+    "5": "cyan",
+    "6": "pink",
+    "7": "white",
+    "8": "brown",
+    "9": "gray",
+    ":": "rainbow"
+  }
+}
