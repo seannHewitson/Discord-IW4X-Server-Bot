@@ -37,7 +37,7 @@ def getEmbed(port):
     #   Check if server is online.
     if servers[port]["status"] == True:
         #   Create Embed with joinable title.
-        embed = discord.Embed(title=servers[port]["name"], url="http://%s/redir/?port=%s" % (ip, port), description="ONLINE", color=0x40ff40)
+        embed = discord.Embed(title=servers[port]["name"], url="http://%s/redir/?ip=%s&port=%s" % (ip, ip, port), description="ONLINE", color=0x40ff40)
         #   Add Field Players.
         embed.add_field(name="Players", value="%s/%s" % (servers[port]["players"], servers[port]["maxplayers"]), inline=True)
         #   Convert console gametype name to Actual gametype name.
